@@ -1,4 +1,4 @@
-Using Multilevel Inheritance
+// Using Multilevel Inheritance
 class Bank
 {
   int I_R;
@@ -42,5 +42,3 @@ public class classpractise3 {
 
     }
 }
-
-Using Method Overiding

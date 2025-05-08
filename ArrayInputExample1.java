@@ -22,6 +22,6 @@ for (int i=0; i<n; i++)
 {  
 System.out.println(array[i]);  
 }  
-sc.close();11
+sc.close();
 }  
 }  
